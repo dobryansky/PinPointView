@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="pinpointview">
+        <attr name="colorPins" format="color"/>
+        <attr name="colorPinsState" format="enum">
+                <enum name="NONE" value="0"/>
+                <enum name="ONE" value="1"/>
+                <enum name="TWO" value="2"/>
+                <enum name="THREE" value="3"/>
+                <enum name="FOUR" value="4"/>
+                <enum name="ERROR" value="5"/>
+        </attr>
+
+
+    </declare-styleable>
+</resources>
